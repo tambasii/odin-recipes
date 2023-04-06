@@ -1,0 +1,16 @@
+/* This is css for the main landing page*/
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    font-weight: 850;
+    text-decoration: underline;
+    text-align: left;
+    }
+
+.list {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-style: inherit;
+}

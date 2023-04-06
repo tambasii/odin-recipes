@@ -1,0 +1,33 @@
+/* This is css for Kabobs.html */
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: 850;
+    text-decoration: underline;
+    text-align: left;
+    }
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+    font-size: 32px;
+    font-weight: 850;
+    text-decoration: underline;
+    text-align: left;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace ,sans-serif, monospace;
+    font-style: normal;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
+
+.list {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-style: inherit;
+}
