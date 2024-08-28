@@ -1,8 +1,39 @@
 body {
   background-color: #1e293b;
+  width: 50vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 h1 {
   font-family: "Courier New", Courier, monospace;
   text-align: center;
   font-size: 36px;
+  color: white;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+
+ul li,
+ol li {
+  font-size: 20px;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
 }
